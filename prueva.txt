@@ -1,1 +1,2 @@
 quinto texto añadido en la rama master
+cuarto texto añadido en la rama branch2
